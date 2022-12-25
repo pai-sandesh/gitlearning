@@ -4,3 +4,5 @@
 Adding line to create merge conflict
 Adding line to create
 add 2 lines 
+
+added via master
